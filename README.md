@@ -1,4 +1,11 @@
-## Hi there I am Derya Lacin Maes :D
+
+<div align="center">## Hi there I am Derya Lacin Maes
+</div>
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzk3OGltb2oyYnh2Y3l4ZDQ4OGM0MTIwZGFkZWx0dnRkYzVoaXkyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
+</div>
+
+Coding is my life, and I am a true autodidact. I am always open to learning new technologies and thrive in team environments. I’m currently looking for an internship opportunity. If you need fresh ideas and someone who learns quickly, you’re in the right place. Just tell me what needs to be done, and I will do whatever it takes to bring it to life. I consider myself a real programmer, and every challenge is an exciting opportunity for me. I spend most of my time working on new projects, but I’m eager to contribute to larger-scale projects. How about giving me a chance?
 
 # Contact Me
 
@@ -6,8 +13,6 @@ You can connect with me via:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derya-bxl/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](deryalacin@gmail.com)
-
-
 
 ## Tools & Technologies I Use
 
@@ -23,43 +28,13 @@ You can connect with me via:
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-<!--
-**ocean2024D/ocean2024D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## If you have any suggestions or project ideas related to GitHub, feel free to share them. The more knowledge is shared, the more it grows. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Snake animation](https://github.com/ocean2024D/ocean2024D/blob/output/github-contribution-grid-snake.svg)
+![Knowledge Growth](https://media2.giphy.com/media/8U8wAw0Whv0zXOj2dg/giphy.webp?cid=790b7611qreq9qspjysss1eqd10qhxim6hzd8zc9ll5utwzg&ep=v1_gifs_search&rid=giphy.webp&ct=g)
+![lets work](https://media2.giphy.com/media/nkVSsaeThSw8RLWHr4/giphy.webp?cid=790b7611c70tgkuxzukj6u4giotutuz5tjwsq2ge1tm9ig3v&ep=v1_gifs_search&rid=giphy.webp&ct=g)
 
-name: Generate Datas
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    name: Jobs to update datas
-    runs-on: ubuntu-latest
-    steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: ocean2024D
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+
+
