@@ -32,7 +32,7 @@ You can connect with me via:
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-codeWars : https://www.codewars.com/users/ocean2024D
+[![codeWars](https://www.codewars.com/users/ocean2024D)
 
 ## If you have any suggestions or project ideas related to GitHub, feel free to share them. The more knowledge is shared, the more it grows. 
 
