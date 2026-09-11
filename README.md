@@ -15,6 +15,10 @@ You can connect with me via:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deryalacin@gmail.com)
 
 ## Tools & Technologies I Use
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF6600?style=for-the-badge&logo=mitre&logoColor=white)
+![AI Security](https://img.shields.io/badge/AI_Security-00A4EF?style=for-the-badge&logo=openai&logoColor=white)
+![GRC](https://img.shields.io/badge/GRC_Compliance-003366?style=for-the-badge&logo=shield&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-11315B?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
